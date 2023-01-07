@@ -1,1 +1,1 @@
-Unzip the .part1.rar to get the .apk
+Unzip the .rar to get the .apk
