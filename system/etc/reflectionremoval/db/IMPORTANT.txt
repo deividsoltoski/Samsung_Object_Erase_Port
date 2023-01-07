@@ -1,0 +1,1 @@
+Unzip the .part1.rar to get the .tflite
