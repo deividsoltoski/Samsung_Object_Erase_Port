@@ -1,1 +1,1 @@
-Unzip this file to get the .apk 
+Unzip the PhotoEditor_Mid.tar.gz file to get the .apk
